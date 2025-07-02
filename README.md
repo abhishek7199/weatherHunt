@@ -4,7 +4,7 @@
 
 ---
 
-## 📸 Screenshot
+## Preview
 
 ![Expense Tracker Screenshot](./preview.png)
 
