@@ -4,6 +4,12 @@
 
 ---
 
+## 📸 Screenshot
+
+![Expense Tracker Screenshot](./preview.png)
+
+---
+
 ## 🌟 Key Features
 
 - 🔎 **Dynamic City-Based Search** — Retrieve up-to-date weather conditions by simply entering a city name.
